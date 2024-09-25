@@ -32,6 +32,6 @@ Feel free to contribute to this repository by submitting issues or pull requests
 
 ## Contact Information
 For more about me and my work, you can visit:
-
-Resume: rakibmahmud139/ProblemSolving
-Portfolio: rakibmahmud's Portfolio
+  ```bash
+  Resume: https://drive.google.com/file/d/1VIwhpwiE8cn0UWNFuPXmodiQ2lUvRhbJ/view?usp=drive_link
+  Portfolio: https://portfolio-client-lilac-nine.vercel.app/
